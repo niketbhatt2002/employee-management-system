@@ -64,6 +64,10 @@ manage-employee-app/
 ## 🚀 How to Run the Project Locally
 
 Follow the steps below to set up and run the **Employee Management System** on your local machine.
+![Database Connectivity]()
+![Dashboard](images/dashboard.png)
+![Add Employee](images/add-employee.png)
+
 
 ---
 
