@@ -1,7 +1,7 @@
 
 # 👩‍💼 Employee Management System
 
-A simple web-based Employee Management System built using **HTML**, **CSS**, **JavaScript (Frontend)** and **Python Flask (Backend)**.  
+A web-based Employee Management System built using **HTML**, **CSS**, **JavaScript (Frontend)** and **SQLite, NodeJS and ExpressJS (Backend)**.  
 This project allows you to add, view, and manage employee data such as name, age, salary, designation, department, date of joining, and date of leaving.
 
 ---
@@ -13,7 +13,7 @@ This project allows you to add, view, and manage employee data such as name, age
 - 📅 Track joining and leaving dates  
 - 🔄 Refresh employee data with a button  
 - 🔎 Search employees by Name, Designation, or Department (client-side)  
-- ⚙️ REST API using Flask backend  
+
 
 ---
 
