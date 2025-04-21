@@ -129,7 +129,7 @@ You can open them directly in a browser or use a live server (e.g., the VS Code 
 
 ## 📸 Screenshots
 
-![Database Connectivity]("")
+![Database Connectivity]("https://github.com/niketbhatt2002/employee-management-system/blob/main/Screenshot%202025-04-21%20131929.png")
 ![Dashboard]("https://github.com/niketbhatt2002/employee-management-system/blob/main/Screenshot%202025-04-21%20131957.png")
 ![Add Employee]("https://github.com/niketbhatt2002/employee-management-system/blob/main/Screenshot%202025-04-21%20131944.png") 
 
